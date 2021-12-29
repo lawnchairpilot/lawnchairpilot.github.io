@@ -1,0 +1,20 @@
+canvas {
+	border: 1px solid black;
+}
+
+body {
+	margin: 0;
+}
+
+
+button {
+	display: flex
+	align-items: center;
+	text-align: center;
+	justify-content: space-around;
+
+	width: 300px;
+	height: 150px;
+	color: orange;
+	background-color: black;
+}
